@@ -1,8 +1,11 @@
-Hola, me presento mi nombre es Ángel Hernandez
+#Hola, me presento mi nombre es Ángel Hernandez
 Originario de mi querido, mágico, bello y es
+
 ![Bandera de México](https://flagcdn.com/w40/mx.png)
-Ingeniero en Tecnologías Computacionales.
-Cient1fico de D4tos jr.
+
+##Ingeniero en Tecnologías Computacionales.
+
+##Cient1fico de D4tos jr.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelHernandezCardenas&theme=blue-green&timezone=CST&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=481)
 
 Te invito a mi página web
@@ -56,20 +59,32 @@ Gestión de Información y Alertas: Diseño de la infraestructura central en la 
 
 Publicaciones y Ponencias Inteligente
 2025
+
 Ponente: Reconocimiento por parte de IEEE en el congreso ENC– 2025.
+
 Artículo: “Computer Vision-Based Color Detection and Distance Estimation with an Online Graphi
 cal Interface”.
+
 ---
 ## Cursos y certificaciones
 Coursera / Microsoft: Inteligencia Artificial (Cursando).
+
 Fundación Carlos Slim: Desarrollador Back-end y Front-end (106 horas c/u, Oct 2025).
+
 CISCO: CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas (Ene 2026).
+
 CISCO: Introducción a Ciencia de Datos (2025).
+
 CISCO: Introducción a Python (2025).
+
 Santander Open Academy:
+
 Google: Inteligencia Artificial y productividad (Serie: OA-2025-0115000738034).
+
 Introducción a la ciencia de datos (Serie: OA-2025-0302000854819).
+
 Pensamiento crítico y resolución de problemas (Serie: OA-2025-0329000947948)
+
 ---
 Actualmente estoy en desarrollo de... Modelo de sistema OSINT como parte de mi Estadía Profesional en Ethical Hacking consultores
 Estoy aprendiendo... LLM, Ciencia de Datos, IA y Ciberseguridad
