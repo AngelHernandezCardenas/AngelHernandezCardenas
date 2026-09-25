@@ -43,16 +43,14 @@ Investigacion y Movilidad academica
 Universidad Autónoma de Nuevo León (UANL- FCFM)
 Ene 2026 – May 2026
 
-Verano de la investigación- Programa Delfín
-Instituto Tecnológico y de Estudios Superiores de Monterrey:
+# Verano de la investigación- Programa Delfín
+## Instituto Tecnológico y de Estudios Superiores de Monterrey:
 8 de Junio – 24 de Julio 2026
 Proyecto: “Sistema integral de rastreo y telemetría IoT con evaluación automatizada mediante visión artificial (YOLOv8)”.
 
 Universidad Tecnológica de Bolívar, Colombia:  
 9 de Junio– 25 de Julio 2025
 Proyecto: “Creación y validación de un dataset de emociones faciales para modelos de detección en tiempo real”.
-Asesor: Dr. Edwin Puertas del Castillo.
-Participación en el XXX Verano de la Investigación Científica y Tecnológica del Pacífico.
 ---
 Proyecto de Investigación: Sistema Comunitario de Alerta Temprana de Inundaciones 2026
 Universidad Veracruzana
