@@ -42,6 +42,7 @@ Investigacion y Movilidad academica
 ## Movilidad Semestral
 Universidad Autónoma de Nuevo León (UANL- FCFM)
 Ene 2026 – May 2026
+
 Verano de la investigación- Programa Delfín
 Instituto Tecnológico y de Estudios Superiores de Monterrey:
 8 de Junio – 24 de Julio 2026
