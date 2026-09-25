@@ -4,14 +4,19 @@ Originario de mi querido, mágico, bello y es
 Ingeniero en Tecnologías Computacionales.
 Cient1fico de D4tos jr.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelHernandezCardenas&theme=blue-green&timezone=CST&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=481)
+
 Te invito a mi página web
 ![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
+Redes Sociales
 ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
 📫 Contactos:
 7821858389
 angelhdezcrdenas@gmail.com
 ---
+
 Herramienta de tecnologías: `.java`, `.c++ `, `PBI `,
 `.css`, ` .python`, `.js`, `.react`, `.docker`, `.go`, `powerautomate`, `MySQL `, `.NodeJS`, `MariaDB`.
 Vision por computadora
@@ -23,6 +28,7 @@ netlify
 websockets
 Grafos
 Roadmap
+
 Título:
 Universidad Veracruzana
 Ingeniería en Tecnologías Computacionales
@@ -54,7 +60,7 @@ Ponente: Reconocimiento por parte de IEEE en el congreso ENC– 2025.
 Artículo: “Computer Vision-Based Color Detection and Distance Estimation with an Online Graphi
 cal Interface”.
 ---
-Cursos y certificaciones
+## Cursos y certificaciones
 Coursera / Microsoft: Inteligencia Artificial (Cursando).
 Fundación Carlos Slim: Desarrollador Back-end y Front-end (106 horas c/u, Oct 2025).
 CISCO: CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas (Ene 2026).
