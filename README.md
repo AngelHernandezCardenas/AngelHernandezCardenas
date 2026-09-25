@@ -1,5 +1,6 @@
 Hola, me presento mi nombre es Ángel Hernandez
-Originario de mi querido, mágico, bello y es![Bandera de México](https://flagcdn.com/w40/mx.png)
+Originario de mi querido, mágico, bello y es
+![Bandera de México](https://flagcdn.com/w40/mx.png)
 Ingeniero en Tecnologías Computacionales.
 Cient1fico de D4tos jr.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelHernandezCardenas&theme=blue-green&timezone=CST&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=481)
@@ -28,31 +29,25 @@ Ingeniería en Tecnologías Computacionales
 2023 - 2027
 ---
 Investigacion y Movilidad academica
-Movilidad Semestral
+
+## Movilidad Semestral
 Universidad Autónoma de Nuevo León (UANL- FCFM)
 Ene 2026 – May 2026
 Verano de la investigación- Programa Delfín
 Instituto Tecnológico y de Estudios Superiores de Monterrey:
 8 de Junio – 24 de Julio 2026
 Proyecto: “Sistema integral de rastreo y telemetría IoT con evaluación automatizada mediante visión artificial (YOLOv8)”.
-Líneas de Investigación: Ciencia de Datos y Movilidad Inteligente.
-Asesora: Dra. Luisa Fernanda Chaparro Sierra.
-Implementación de arquitectura en la nube con sincronización de datos en tiempo real.
+
 Universidad Tecnológica de Bolívar, Colombia:  
 9 de Junio– 25 de Julio 2025
 Proyecto: “Creación y validación de un dataset de emociones faciales para modelos de detección en tiempo real”.
 Asesor: Dr. Edwin Puertas del Castillo.
 Participación en el XXX Verano de la Investigación Científica y Tecnológica del Pacífico.
-Colaboración en la redacción de artículos de investigación derivados de la estancia
 ---
-Proyecto de Investigación: Sistema Comunitario de Alerta Temprana de Inundaciones
-2026
+Proyecto de Investigación: Sistema Comunitario de Alerta Temprana de Inundaciones 2026
 Universidad Veracruzana
 Gestión de Información y Alertas: Diseño de la infraestructura central en la nube encargada de la ingesta de telemetría en tiempo real, almacenamiento persistente y orquestación de alertas críticas sobre el nivel del Río Cazones.
-Tecnologías: Implementación de API asíncrona de alto rendimiento en FastAPI, persistencia de da
-tos en PostgreSQL, orquestación de contenedores en Docker, y comunicación en tiempo real mediante WebSockets.
-Seguridad y Redes: Integración de Tailscale para creación de VPN y túneles cifrados punto a
-punto, y enrutamiento con Cloudflare
+
 Publicaciones y Ponencias Inteligente
 2025
 Ponente: Reconocimiento por parte de IEEE en el congreso ENC– 2025.
